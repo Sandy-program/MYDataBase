@@ -6,11 +6,11 @@ MYDB 是一个 Java 实现的简单的数据库，来自[原作者代码](https:
 
 逻辑关系图1：
 <p align="center">
-  <img src="img/pic1.png" alt="逻辑关系图1"/>
+  <img src="img/pic2New.png" alt="逻辑关系图1"/>
 </p>
 逻辑关系图2：
 <p align="center">
-  <img src="img/pic2New.png" alt="逻辑关系图2"/>
+  <img src="img/pic2.png" alt="逻辑关系图2"/>
 </p>
 
 过了10多天，忘了七七八八了，于是重新看了遍[原作者教程](https://shinya.click/projects/mydb/mydb1/)，并且做了几张图来汇总以便面经时快速复习：
